@@ -52,5 +52,5 @@ Las contribuciones son bienvenidas. Si tienes alguna idea.
 
 
 Contacto
-Email: nibaldoji306@gmail.com
-Linkdin  https://www.linkedin.com/in/nibaldocontreras/
+[nibaldoji306@gmail.com](mailto:tu-email@example.com)
+[Mi LinkedIn](https://www.linkedin.com/in/nibaldocontreras/)
